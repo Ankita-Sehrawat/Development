@@ -1,1 +1,1 @@
-let data=reset;
+let data=resettyyuiioo;
