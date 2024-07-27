@@ -1,1 +1,1 @@
-gxhgfvb
+let data=reset;
